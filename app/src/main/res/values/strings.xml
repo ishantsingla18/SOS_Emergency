@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SOS Emergency</string>
+    <string name="map_key" translatable="false">AIzaSyDLW1RBZ8JdgnSU3r3c4YJTlTcfUUlkWtM</string>
+</resources>
